@@ -3,7 +3,7 @@ This set of widgets extend elementor for wordpress with some coding functionalit
 
 Current functionalities are:
 - [x] Inline Editor
-- [x] P5js Editor
+- [x] P5js Editor for Creative Coding - [P5js Website](https://www.p5js.com)
 - [ ] Simple 3D (.obj) Viewer
 - [ ] Simple 360 Degree Videoplayer with Fullscreen feature
 - [ ] Button for Woo Commerce Product Detail Sites to link 3D .usdz to Apples internal Arkit 2.0. Technology 
