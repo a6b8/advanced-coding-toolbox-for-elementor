@@ -1,12 +1,12 @@
 <?php
 /**
  * Plugin Name: Advanced Coding Toolbox for Elementor
- * Description: Elementor Advanced Coding Toolbox
- * Plugin URI:  https://www.13plus4.com
- * Version:     0.0.6
- * Author:      13plus4
- * Author URI:  https://www.13plus4.com
- * Text Domain: hello-world
+ * Description: This plugin extend elementor for wordpress with some coding widgets
+ * Plugin URI:  https://github.com/a6b8/advanced-coding-toolbox-for-elementor
+ * Version:     0.0.7
+ * Author:      Andreas Banholzer | 13plus4
+ * Author URI:  https://github.com/a6b8/advanced-coding-toolbox-for-elementor
+ * Text Domain: https://github.com/a6b8/advanced-coding-toolbox-for-elementor
  */
 
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
