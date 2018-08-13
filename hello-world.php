@@ -5,8 +5,8 @@
  * Plugin URI:  https://github.com/a6b8/advanced-coding-toolbox-for-elementor
  * Version:     0.0.7
  * Author:      Andreas Banholzer | 13plus4
- * Author URI:  https://github.com/a6b8/advanced-coding-toolbox-for-elementor
- * Text Domain: https://github.com/a6b8/advanced-coding-toolbox-for-elementor
+ * Author URI:  
+ * Text Domain: 
  */
 
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
