@@ -1,6 +1,5 @@
 # advanced-coding-toolbox-for-elementor
 These widgets extend elementor for wordpress with some coding functionalities. 
--- very early stage, do not use it in production --
 
 Current Widgets are:
 - [x] Inline Editor
